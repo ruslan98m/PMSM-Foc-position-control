@@ -1,0 +1,9 @@
+mc_project\fastmathfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\FastMathFunctions\FastMathFunctions.c
+mc_project\fastmathfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Source\FastMathFunctions\arm_cos_f32.c
+mc_project\fastmathfunctions.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.6.0\CMSIS\DSP\Include\arm_math.h
+mc_project\fastmathfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+mc_project\fastmathfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+mc_project\fastmathfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+mc_project\fastmathfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+mc_project\fastmathfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+mc_project\fastmathfunctions.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
